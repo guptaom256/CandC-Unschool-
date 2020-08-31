@@ -1,0 +1,18 @@
+
+#import <stdio.h>
+
+int main()
+{
+int num1, num2, sum, diff1, diff2, pro, div, rem ;
+printf("Enter first number \n");
+scanf("%d,&num1");
+printf("Enter second number \n");
+scanf(%d,num2);
+sum = num1+num2;
+diff1 = num1-num2;
+diff2 = num2-num1;
+pro = num1*num2;
+div = num1/num2;
+rem = num1%num2;
+printf("
+
